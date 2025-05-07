@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2025/05/06/trap.html",
+				"title": "Trap, 2024 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/931164-trap-0-600-0-900-crop.jpg\"/></p> <p>It’s a bit too long, a tight 90 movie here would’ve been perfect. Regardless it’s a solid weekend movie playing on tv and you watch it just because it’s on kind of film.</p>\n",
+				"date_published": "2025-05-06T22:20:48-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/05/06/trap.html"
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/04/26/sinners.html",
 				"title": "Sinners, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -50,7 +58,7 @@
 				"id": "http://jleberle.micro.blog/2025/04/19/nosferatu.html",
 				"title": "Nosferatu, 2024 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/359505-nosferatu-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://happenings.jaredeberle.org/uploads/2025/359505-nosferatu-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
 				"date_published": "2025-04-19T22:13:27-05:00",
 				"url": "https://happenings.jaredeberle.org/2025/04/19/nosferatu.html"
 			},
