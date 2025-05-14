@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2025/05/14/new-york-times-did-you.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2025/05/14/technology/chatgpt-college-professors.html\"><em>New York Times</em></a>:</p>\n<blockquote>\n<p>“Did you see the notes he put on Canvas?” she wrote, referring to the university’s software platform for hosting course materials. “He made it with ChatGPT.”</p>\n</blockquote>\n<blockquote>\n<p>“OMG Stop,” the classmate responded. “What the hell?”</p>\n</blockquote>\n<blockquote>\n<p>Ms. Stapleton decided to do some digging. She reviewed her professor’s slide presentations and discovered other telltale signs of A.I.: distorted text, photos of office workers with extraneous body parts and egregious misspellings.</p>\n</blockquote>\n<p>I&rsquo;ve used AI two meaningful times:</p>\n<ul>\n<li>To remember the name and director of <a href=\"https://en.wikipedia.org/wiki/The_House_of_the_Devil\">House of the Devil</a>. It hallucinated multiple movies before producing the correct answer.</li>\n<li>To quickly build an excel formula to drop the lowest three values. It overheated my laptop cause it was wrong.</li>\n</ul>\n",
+				"content_text": "[*New York Times*](https://www.nytimes.com/2025/05/14/technology/chatgpt-college-professors.html):\r\n\r\n> “Did you see the notes he put on Canvas?” she wrote, referring to the university’s software platform for hosting course materials. “He made it with ChatGPT.”\r\n\r\n> “OMG Stop,” the classmate responded. “What the hell?”\r\n\r\n> Ms. Stapleton decided to do some digging. She reviewed her professor’s slide presentations and discovered other telltale signs of A.I.: distorted text, photos of office workers with extraneous body parts and egregious misspellings.\r\n\r\nI've used AI two meaningful times:\r\n\r\n- To remember the name and director of [House of the Devil](https://en.wikipedia.org/wiki/The_House_of_the_Devil). It hallucinated multiple movies before producing the correct answer. \r\n- To quickly build an excel formula to drop the lowest three values. It overheated my laptop cause it was wrong. \r\n",
+				"date_published": "2025-05-14T15:59:31-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/05/14/new-york-times-did-you.html"
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/05/11/the-two-popes.html",
+				"title": "The Two Popes, 2019 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/480099-the-two-popes-0-600-0-900-crop.jpg\"/></p> <p>A decent fictionalized that may be a bit too sentimental when it’s all said and done but a decidedly unique buddy comedy.</p>\n",
+				"date_published": "2025-05-11T20:16:44-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/05/11/the-two-popes.html"
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/05/07/then-eventually-its-just-in.html",
+				
+				"content_html": "<blockquote>\n<p>“Then, eventually, it’s just in your brain”</p>\n</blockquote>\n<ul>\n<li><a href=\"https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html\">Everyone is Cheating Their Way Through College</a></li>\n</ul>\n",
+				"content_text": "> “Then, eventually, it’s just in your brain”\n\n- [Everyone is Cheating Their Way Through College](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)\n",
+				"date_published": "2025-05-07T18:55:15-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/05/07/then-eventually-its-just-in.html"
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/05/06/trap.html",
 				"title": "Trap, 2024 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://jleberle.micro.blog/2025/04/22/201435.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://happenings.jaredeberle.org/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-22T20:14:35-05:00",
 				"url": "https://happenings.jaredeberle.org/2025/04/22/201435.html"
 			},
