@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2025/10/28/with-honors.html",
+				"title": "With Honors, 1994 - ★★★",
+				"content_html": "<p><img src=\"uploads/2025/41671-with-honors-0-600-0-900-crop.jpg\"/></p> <p>Your standard feel good 1990s movie you’d find on television during a random statue day afternoon. Joe Pesci is a delight the rest is kind of an inferior Good Will Hunting three years early.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/41671-with-honors-0-600-0-900-crop.jpg\"/></p> <p>Your standard feel good 1990s movie you’d find on television during a random statue day afternoon. Joe Pesci is a delight the rest is kind of an inferior Good Will Hunting three years early.</p>\n",
+				"date_published": "2025-10-28T13:28:55-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/10/28/with-honors.html"
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/10/27/sneakers.html",
+				"title": "Sneakers, 1992 - ★★★½",
+				"content_html": "<p><img src=\"uploads/2025/50331-sneakers-0-600-0-900-crop.jpg\"/></p> <p>It’s a very 90s movie in all the best kind of ways.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/50331-sneakers-0-600-0-900-crop.jpg\"/></p> <p>It’s a very 90s movie in all the best kind of ways.</p>\n",
+				"date_published": "2025-10-27T07:36:58-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/10/27/sneakers.html"
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/10/26/a-house-of-dynamite.html",
+				"title": "A House of Dynamite, 2025 - ★★★★",
+				"content_html": "<p><img src=\"uploads/2025/1172787-a-house-of-dynamite-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday October 26, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/1172787-a-house-of-dynamite-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday October 26, 2025.</p>\n",
+				"date_published": "2025-10-26T20:42:37-05:00",
+				"url": "https://happenings.jaredeberle.org/2025/10/26/a-house-of-dynamite.html"
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/10/26/springsteen-deliver-me-from-nowhere.html",
 				"title": "Springsteen: Deliver Me from Nowhere, 2025 - ★★★★",
 				"content_html": "<p><img src=\"uploads/2025/1113868-springsteen-deliver-me-from-nowhere-0-600-0-900-crop.jpg\"/></p> <p>I love Springsteen, so a biased review. If I didn’t enjoy the music and know more of the backstory it’d be a lower rating.</p>\n",
@@ -41,8 +65,8 @@
 			{
 				"id": "http://jleberle.micro.blog/2025/10/16/phones.html",
 				
-				"content_html": "<p>Phones</p>\n<img src=\"uploads/2025/e32ee4f40e.jpg\" width=\"450\" height=\"600\" alt=\"Phones at a concert\">\n",
-				"content_text": "Phones\n\n<img src=\"uploads/2025/e32ee4f40e.jpg\" width=\"450\" height=\"600\" alt=\"Phones at a concert\">\n",
+				"content_html": "<p>Phones</p>\n<img src=\"https://happenings.jaredeberle.org/uploads/2025/e32ee4f40e.jpg\" width=\"450\" height=\"600\" alt=\"Phones at a concert\">\n",
+				"content_text": "Phones\n\n<img src=\"https://happenings.jaredeberle.org/uploads/2025/e32ee4f40e.jpg\" width=\"450\" height=\"600\" alt=\"Phones at a concert\">\n",
 				"date_published": "2025-10-16T20:20:14-05:00",
 				"url": "https://happenings.jaredeberle.org/2025/10/16/phones.html"
 			},
