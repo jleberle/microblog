@@ -1,17 +1,25 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Miscellanea",
-	"icon": "https://micro.blog/je/avatar.jpg",
+	"icon": "https://micro.blog/eberle/avatar.jpg",
 	"home_page_url": "https://happenings.jaredeberle.org/",
 	"feed_url": "https://happenings.jaredeberle.org/feed.json",
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2026/01/10/after-a-week-away-with.html",
+				
+				"content_html": "<p>After a week away with family with arrived home to find the books we packed in our checked luggage were ruined due to water damage from being left outside during our connection. I shouldn’t be nearly as annoyed as I am given it’s four books but I’m mostly mad at myself for not doing the smart thing and packing them in the carry-ons.</p>\n<p>At the same time it’s a depressing reminder that we’ve got basically four carriers and in many places less than that and because of that none of them have much incentive to actually care about customer service. My damage claim ($50 would buy a lot of goodwill) is likely to go unanswered as did my very committed desire to never fly American again. Because they know I’ll either have to come back or they’ll get another passenger in my place.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After a week away with family with arrived home to find the books we packed in our checked luggage were ruined due to water damage from being left outside during our connection. I shouldn’t be nearly as annoyed as I am given it’s four books but I’m mostly mad at myself for not doing the smart thing and packing them in the carry-ons. \n\nAt the same time it’s a depressing reminder that we’ve got basically four carriers and in many places less than that and because of that none of them have much incentive to actually care about customer service. My damage claim ($50 would buy a lot of goodwill) is likely to go unanswered as did my very committed desire to never fly American again. Because they know I’ll either have to come back or they’ll get another passenger in my place. \n\n<img src=\"uploads/2026/img-0333.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-10T22:07:51-06:00",
+				"url": "https://happenings.jaredeberle.org/2026/01/10/after-a-week-away-with.html"
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/12/30/finished-reading-fen-bog-and.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982173357\">Fen, Bog and Swamp</a> by Annie Proulx 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982173357/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Fen, Bog and Swamp](https://micro.blog/books/9781982173357) by Annie Proulx 📚\n",
-				"date_published": "2025-12-30T23:54:13-05:00",
+				"date_published": "2025-12-30T22:54:13-06:00",
 				"url": "https://happenings.jaredeberle.org/2025/12/30/finished-reading-fen-bog-and.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p><a href=\"https://theamericanscholar.org/the-last-good-thing/?user_id=66c4c73f5d78644b3abbbea0\">Jess Love</a>: &ldquo;Nothing is ever simple. Nostalgia protects and nostalgia poisons, and still we go back for more.&rdquo;</p>\n",
 				"content_text": "[Jess Love](https://theamericanscholar.org/the-last-good-thing/?user_id=66c4c73f5d78644b3abbbea0): \"Nothing is ever simple. Nostalgia protects and nostalgia poisons, and still we go back for more.\"\n",
-				"date_published": "2025-12-29T13:22:14-05:00",
+				"date_published": "2025-12-29T12:22:14-06:00",
 				"url": "https://happenings.jaredeberle.org/2025/12/29/jess-love-nothing-is-ever.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1352624\">The Mastermind</a> 🍿</p>\n<p>It doesn’t have the atmosphere of First Cow or Meek’s Cutoff. So much of this film could’ve been transported to any time and it would’ve been the same movie.</p>\n",
 				"content_text": "Watched: [The Mastermind](https://www.themoviedb.org/movie/1352624) 🍿\n\nIt doesn’t have the atmosphere of First Cow or Meek’s Cutoff. So much of this film could’ve been transported to any time and it would’ve been the same movie. \n",
-				"date_published": "2025-12-26T16:56:10-05:00",
+				"date_published": "2025-12-26T15:56:10-06:00",
 				"url": "https://happenings.jaredeberle.org/2025/12/26/watched-the-mastermind-it-doesnt.html"
 			},
 			{
@@ -35,7 +43,7 @@
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1544623\">Who Killed the Montreal Expos?</a> 🍿</p>\n<p>90 minutes of everyone blaming everyone else.</p>\n",
 				"content_text": "Watched: [Who Killed the Montreal Expos?](https://www.themoviedb.org/movie/1544623) 🍿\n\n90 minutes of everyone blaming everyone else. \n",
-				"date_published": "2025-12-22T14:00:57-05:00",
+				"date_published": "2025-12-22T13:00:57-06:00",
 				"url": "https://happenings.jaredeberle.org/2025/12/22/watched-who-killed-the-montreal.html"
 			},
 			{
