@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Ora et Labora",
-	"icon": "https://micro.blog/eberle/avatar.jpg",
+	"icon": "<no value>",
 	"home_page_url": "https://eberle.blog/",
 	"feed_url": "https://eberle.blog/feed.json",
 	"items": [
@@ -867,96 +867,6 @@
 				"date_published": "2025-01-20T16:18:00-05:00",
 				"url": "https://eberle.blog/2025/01/20/indigenous-activist-leonard-peltier-granted.html",
 				"tags": ["Highlights"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/12/19/krampus.html",
-				"title": "Krampus, 2015 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/213169-krampus-0-600-0-900-crop.jpg\"></p> <p>So dumb it’s kinda fun</p>\n",
-				"date_published": "2024-12-19T19:14:00-05:00",
-				"url": "https://eberle.blog/2024/12/19/krampus.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/12/19/the-christmas-chronicles.html",
-				"title": "The Christmas Chronicles, 2018 - ★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/456712-the-christmas-chronicles-0-600-0-900-crop.jpg\"></p> <p>Watched on Thursday December 19, 2024.</p>\n",
-				"date_published": "2024-12-19T19:14:00-05:00",
-				"url": "https://eberle.blog/2024/12/19/the-christmas-chronicles.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/12/19/hot-frosty.html",
-				"title": "Hot Frosty, 2024 - ★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/1173423-hot-frosty-0-600-0-900-crop.jpg\"></p> <p>So much potential to be a good bad movie but it’s just boring.</p>\n",
-				"date_published": "2024-12-19T15:42:00-05:00",
-				"url": "https://eberle.blog/2024/12/19/hot-frosty.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/12/07/prey.html",
-				"title": "Prey, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/686389-prey-0-600-0-900-crop.jpg\"></p> <p>Watched on Saturday December 7, 2024.</p>\n",
-				"date_published": "2024-12-07T23:30:00-05:00",
-				"url": "https://eberle.blog/2024/12/07/prey.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/11/01/horror-in-the-high-desert.html",
-				"title": "Horror in the High Desert 2: Minerva, 2023 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/984597-horror-in-the-high-desert-2-minerva-0-600-0-900-crop.jpg\"></p> <p>It’s scarier than the first throughout but honestly lost the plot. Good found footage bits though.</p>\n",
-				"date_published": "2024-11-01T07:50:34-05:00",
-				"url": "https://eberle.blog/2024/11/01/horror-in-the-high-desert.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/10/31/horror-in-the-high-desert.html",
-				"title": "Horror in the High Desert, 2021 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/722862-horror-in-the-high-desert-0-600-0-900-crop.jpg\"></p> <p>It’s pretty bland for most of the movie. It’s a really good setup and ending though.</p>\n",
-				"date_published": "2024-10-31T20:47:32-05:00",
-				"url": "https://eberle.blog/2024/10/31/horror-in-the-high-desert.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/10/06/the-dark-knight.html",
-				"title": "The Dark Knight, 2008 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/oefdd26aey8gpdx7rm45pnncjdu-0-600-0-900-crop.jpg\"></p> <p>Watched on Sunday October 6, 2024.</p>\n",
-				"date_published": "2024-10-06T16:18:27-05:00",
-				"url": "https://eberle.blog/2024/10/06/the-dark-knight.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/10/05/the-birds.html",
-				"title": "The Birds, 1963 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/51549-the-birds-0-600-0-900-crop.jpg\"></p> <p>The birbs were angry that day my friends</p>\n",
-				"date_published": "2024-10-05T10:05:45-05:00",
-				"url": "https://eberle.blog/2024/10/05/the-birds.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/10/03/salems-lot.html",
-				"title": "Salem's Lot, 2024 - ★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/677660-salems-lot-2024-0-600-0-900-crop.jpg\"></p> <p>I guess Sundown getting played twice gets a star</p>\n",
-				"date_published": "2024-10-03T23:04:54-05:00",
-				"url": "https://eberle.blog/2024/10/03/salems-lot.html",
-				"tags": ["Movies"]
-			},
-			{
-				"id": "http://jleberle.micro.blog/2024/09/21/thanksgiving.html",
-				"title": "Thanksgiving, 2023 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/200407/2025/965346-thanksgiving-0-600-0-900-crop.jpg\"></p> <p>I’d kill for a waffle maker</p>\n",
-				"date_published": "2024-09-21T23:49:22-05:00",
-				"url": "https://eberle.blog/2024/09/21/thanksgiving.html",
-				"tags": ["Movies"]
 			}
 	]
 }
