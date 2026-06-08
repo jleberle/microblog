@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2026/06/08/finished-reading-bones-and-berserkers.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781419773204\">Bones and Berserkers (Nathan Hale&rsquo;s Hazardous Tales #13) 13 True Tales of Terror from American History</a> by Nathan Hale 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781419773204/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Bones and Berserkers (Nathan Hale's Hazardous Tales #13) 13 True Tales of Terror from American History](https://micro.blog/books/9781419773204) by Nathan Hale 📚\n",
+				"date_published": "2026-06-08T08:36:12-05:00",
+				"url": "https://eberle.blog/2026/06/08/finished-reading-bones-and-berserkers.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2026/06/07/watched-toy-story.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/301528\">Toy Story 4</a> 🍿</p>\n",
+				"content_text": "Watched: [Toy Story 4](https://www.themoviedb.org/movie/301528) 🍿\n",
+				"date_published": "2026-06-07T21:53:59-05:00",
+				"url": "https://eberle.blog/2026/06/07/watched-toy-story.html",
+				"tags": ["Movies"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/06/05/watched-the-hindenburg-a-slow.html",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/17599\">The Hindenburg</a> 🍿</p>\n<p>A slow burn until it isn’t.</p>\n",
