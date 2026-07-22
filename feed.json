@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2026/07/22/currently-reading-the-night-manager.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781101968352/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781101968352\">The Night Manager</a> by John le Carré 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101968352/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Night Manager](https://micro.blog/books/9781101968352) by John le Carré 📚\n",
+				"date_published": "2026-07-22T20:18:42+02:00",
+				"url": "https://eberle.blog/2026/07/22/currently-reading-the-night-manager.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/07/18/finished-reading-a-legacy-of.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780735225121/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780735225121\">A Legacy of Spies</a> by John le Carré 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780735225121/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [A Legacy of Spies](https://micro.blog/books/9780735225121) by John le Carré 📚\n",
-				"date_published": "2026-07-18T11:13:50-05:00",
+				"date_published": "2026-07-18T18:13:50+02:00",
 				"url": "https://eberle.blog/2026/07/18/finished-reading-a-legacy-of.html",
 				"tags": ["Books","Finished Reading"]
 			},
@@ -20,7 +29,7 @@
 				
 				"content_html": "<p>That was the match we deserved.</p>\n",
 				"content_text": "That was the match we deserved. \n",
-				"date_published": "2026-07-06T21:13:36-05:00",
+				"date_published": "2026-07-07T04:13:36+02:00",
 				"url": "https://eberle.blog/2026/07/06/that-was-the-match-we.html",
 				"tags": ["Status"]
 			},
@@ -29,7 +38,7 @@
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1275779\">Disclosure Day</a> 🍿</p>\n<p>I spent most of the film entirely confused and left annoyed they didn&rsquo;t make it about the best part.</p>\n",
 				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [Disclosure Day](https://www.themoviedb.org/movie/1275779) 🍿\n\nI spent most of the film entirely confused and left annoyed they didn't make it about the best part.\n",
-				"date_published": "2026-07-03T22:17:30-05:00",
+				"date_published": "2026-07-04T05:17:30+02:00",
 				"url": "https://eberle.blog/2026/07/03/watched-disclosure-day-i-spent.html",
 				"tags": ["Movies"]
 			},
@@ -38,7 +47,7 @@
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fm4T7R448djzbDbURK4eQgo5TllF.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/5122\">The Day of the Locust</a> 🍿</p>\n<p>Boy this gets crazy at the end.</p>\n",
 				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fm4T7R448djzbDbURK4eQgo5TllF.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [The Day of the Locust](https://www.themoviedb.org/movie/5122) 🍿\n\nBoy this gets crazy at the end. \n",
-				"date_published": "2026-06-25T17:59:41-05:00",
+				"date_published": "2026-06-26T00:59:41+02:00",
 				"url": "https://eberle.blog/2026/06/25/watched-the-day-of-the.html",
 				"tags": ["Movies"]
 			},
@@ -47,7 +56,7 @@
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FnYlkEyYNku0RV4mZNhWBjIbNc4A.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1226777\">Eephus</a> 🍿</p>\n<p>My favorite Wes Anderson.</p>\n",
 				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FnYlkEyYNku0RV4mZNhWBjIbNc4A.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [Eephus](https://www.themoviedb.org/movie/1226777) 🍿\n\nMy favorite Wes Anderson. \n",
-				"date_published": "2026-06-25T11:42:13-05:00",
+				"date_published": "2026-06-25T18:42:13+02:00",
 				"url": "https://eberle.blog/2026/06/25/watched-eephus-my-favorite-wes.html",
 				"tags": ["Movies"]
 			},
@@ -317,7 +326,7 @@
 				"title": "04/03/26",
 				"content_html": "<p><strong>Today</strong>: Slowly inching towards the end of the semester</p>\n<p><strong>Status</strong>: Cut up a bunch of the branches from the honeysuckle bush we cut down in the backyard and the thumb is a bit sore. Bought a new Fiskers cutter for this whole product and the rubber grip hasn&rsquo;t survived the first project.</p>\n<p><strong>Reading</strong>: Everything and nothing all at once.</p>\n<p><strong>Last Watched</strong>: <em>The Gilded Age,</em> I&rsquo;m out after one episode. <em>Downtown Abbey</em> was never my thing and the American version doesn&rsquo;t really do anything else.</p>\n",
 				"content_text": "\n**Today**: Slowly inching towards the end of the semester\n\n**Status**: Cut up a bunch of the branches from the honeysuckle bush we cut down in the backyard and the thumb is a bit sore. Bought a new Fiskers cutter for this whole product and the rubber grip hasn't survived the first project. \n\n**Reading**: Everything and nothing all at once.\n\n**Last Watched**: *The Gilded Age,* I'm out after one episode. *Downtown Abbey* was never my thing and the American version doesn't really do anything else.\n",
-				"date_published": "2026-04-03T09:00:57-05:00",
+				"date_published": "2026-04-03T16:00:57+02:00",
 				"url": "https://eberle.blog/2026/04/03/090057.html",
 				"tags": ["Status"]
 			},
