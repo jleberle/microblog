@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jleberle.micro.blog/2026/07/26/watched-the-odyssey.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5rhTDKUhPYvpdQIijFIs5VoWsON.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1368337\">The Odyssey</a> 🍿</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5rhTDKUhPYvpdQIijFIs5VoWsON.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [The Odyssey](https://www.themoviedb.org/movie/1368337) 🍿\n",
+				"date_published": "2026-07-26T21:38:36-05:00",
+				"url": "https://eberle.blog/2026/07/26/watched-the-odyssey.html",
+				"tags": ["Movies"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/07/25/finished-reading-a-short-stay.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780983748427/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780983748427\">A Short Stay in Hell</a> by Steven L. Peck 📚</p>\n",
