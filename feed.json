@@ -65,7 +65,7 @@
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fm4T7R448djzbDbURK4eQgo5TllF.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/5122\">The Day of the Locust</a> 🍿</p>\n<p>Boy this gets crazy at the end.</p>\n",
 				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fm4T7R448djzbDbURK4eQgo5TllF.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [The Day of the Locust](https://www.themoviedb.org/movie/5122) 🍿\n\nBoy this gets crazy at the end. \n",
-				"date_published": "2026-06-26T00:59:41+02:00",
+				"date_published": "2026-06-25T17:59:41-05:00",
 				"url": "https://eberle.blog/2026/06/25/watched-the-day-of-the.html",
 				"tags": ["Movies"]
 			},
@@ -124,6 +124,15 @@
 				"tags": ["Movies"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/06/15/started-reading-the-blood-countess.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781639732159/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Started reading: <a href=\"https://micro.blog/books/9781639732159\">The Blood Countess: Murder, Betrayal, and the Making of a Monster</a> by Shelley Puhak. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781639732159/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Started reading: <a href=\"https://micro.blog/books/9781639732159\">The Blood Countess: Murder, Betrayal, and the Making of a Monster</a> by Shelley Puhak. 📚</p>\n",
+				"date_published": "2026-06-15T00:00:00-05:00",
+				"url": "https://eberle.blog/2026/06/15/started-reading-the-blood-countess.html",
+				"tags": ["Books","Started Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/06/11/watched-hoppers-its-a-perfectly.html",
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FxjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1327819\">Hoppers</a> 🍿</p>\n<p>It&rsquo;s a perfectly serviceable but not extraordinary Pixar environmental movie.</p>\n",
@@ -178,6 +187,15 @@
 				"tags": ["Status"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/06/03/7da984.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780385548533/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385548533\">London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth</a> by Patrick Radden Keefe. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780385548533/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385548533\">London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth</a> by Patrick Radden Keefe. 📚</p>\n",
+				"date_published": "2026-06-03T00:00:00-05:00",
+				"url": "https://eberle.blog/2026/06/03/7da984.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/05/23/watched-star-wars-the-mandalorian.html",
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1228710\">Star Wars: The Mandalorian and Grogu</a> 🍿</p>\n<p>Grogu is cute. Mando shoots. Ludwig&rsquo;s score is the best part.</p>\n",
@@ -205,6 +223,24 @@
 				"tags": ["Movies"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/05/14/03f215.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781638932932/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781638932932\">Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind</a> by Jason Zengerle. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781638932932/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9781638932932\">Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind</a> by Jason Zengerle. 📚</p>\n",
+				"date_published": "2026-05-14T00:00:00-05:00",
+				"url": "https://eberle.blog/2026/05/14/03f215.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2026/05/07/8c2ae6.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316381949/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316381949\">End of Days: Ruby Ridge, the Apocalypse, and the Unmaking of America</a> by Chris Jennings. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316381949/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316381949\">End of Days: Ruby Ridge, the Apocalypse, and the Unmaking of America</a> by Chris Jennings. 📚</p>\n",
+				"date_published": "2026-05-07T00:00:00-05:00",
+				"url": "https://eberle.blog/2026/05/07/8c2ae6.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/04/26/watched-project-hail-mary-rock.html",
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FyihdXomYb5kTeSivtFndMy5iDmf.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/687163\">Project Hail Mary</a> 🍿</p>\n<p>Rock is the best part and is better than the book at a lot of points, the rest is less appealing.</p>\n",
@@ -223,12 +259,30 @@
 				"tags": ["Books","Finished Reading"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/04/19/000000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780743228152/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780743228152\">Chronicles, Vol. 1</a> by Bob Dylan. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780743228152/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780743228152\">Chronicles, Vol. 1</a> by Bob Dylan. 📚</p>\n",
+				"date_published": "2026-04-19T00:00:00-05:00",
+				"url": "https://eberle.blog/2026/04/19/000000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/04/15/finished-reading-ghosts-of-crook.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780807012994/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780807012994\">Ghosts of Crook County</a> by Russell Cobb 📚</p>\n<p>When this came out it seemed to always get compared to <em>Killers of the Flower Moon</em>, which really is a disservice because while both deal with shady dealings to claim oil rights and payouts within Oklahoma during the early 20th century boom, <em>Ghosts</em> is a much different subject. The thing that makes this book frustrating and rewarding at the same time is the simple fact that when it comes to oil rights in the state much of the crookery came through legal means that don&rsquo;t make as gripping a story as the sensational murders and violence that allowed Scorsese to make a 3 hour movie.</p>\n<p><em>Ghosts</em> deals with the legal maneuvers to secure access to allotment land for Tommy Atkins, who never existed. Yet by the end of the book numerous parties have made various claims to the allotment in an attempt to profit off the generous earnings it provided. The most prominent of those was Charles Page, the founder and benefactor of Sand Springs. While Page had the money and fame to attract attention, smaller drillers and family members also sought to stake their claim to the allotment. The Atkins case was a sensational story that attracted national attention as it touched on issues of class and race and had far too many twists and turns for anyone to keep straight, including readers of the book.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780807012994/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Ghosts of Crook County](https://micro.blog/books/9780807012994) by Russell Cobb 📚\n\nWhen this came out it seemed to always get compared to *Killers of the Flower Moon*, which really is a disservice because while both deal with shady dealings to claim oil rights and payouts within Oklahoma during the early 20th century boom, *Ghosts* is a much different subject. The thing that makes this book frustrating and rewarding at the same time is the simple fact that when it comes to oil rights in the state much of the crookery came through legal means that don't make as gripping a story as the sensational murders and violence that allowed Scorsese to make a 3 hour movie. \n\n*Ghosts* deals with the legal maneuvers to secure access to allotment land for Tommy Atkins, who never existed. Yet by the end of the book numerous parties have made various claims to the allotment in an attempt to profit off the generous earnings it provided. The most prominent of those was Charles Page, the founder and benefactor of Sand Springs. While Page had the money and fame to attract attention, smaller drillers and family members also sought to stake their claim to the allotment. The Atkins case was a sensational story that attracted national attention as it touched on issues of class and race and had far too many twists and turns for anyone to keep straight, including readers of the book. \n",
 				"date_published": "2026-04-15T12:28:59-05:00",
 				"url": "https://eberle.blog/2026/04/15/finished-reading-ghosts-of-crook.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2026/04/14/finished-reading-ghosts-of-crook.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780807007372/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780807007372\">Ghosts of Crook County: An Oil Fortune, a Phantom Child, and the Fight for Indigenous Land</a> by Russell Cobb. 📚 Assigned for Oklahoma History, Spring 2026</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780807007372/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780807007372\">Ghosts of Crook County: An Oil Fortune, a Phantom Child, and the Fight for Indigenous Land</a> by Russell Cobb. 📚 Assigned for Oklahoma History, Spring 2026</p>\n",
+				"date_published": "2026-04-14T00:00:00-05:00",
+				"url": "https://eberle.blog/2026/04/14/finished-reading-ghosts-of-crook.html",
 				"tags": ["Books","Finished Reading"]
 			},
 			{
@@ -356,6 +410,15 @@
 				"date_published": "2026-03-04T09:45:12-05:00",
 				"url": "https://eberle.blog/2026/03/04/084512.html",
 				"tags": ["Status"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2026/03/04/010000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780812253030/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780812253030\">I've Been Here All the While: Black Freedom on Native Land</a> by Alaina E. Roberts. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780812253030/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780812253030\">I've Been Here All the While: Black Freedom on Native Land</a> by Alaina E. Roberts. 📚</p>\n",
+				"date_published": "2026-03-04T01:00:00-05:00",
+				"url": "https://eberle.blog/2026/03/04/010000.html",
+				"tags": ["Books","Finished Reading"]
 			},
 			{
 				"id": "http://jleberle.micro.blog/2026/03/03/134803.html",
@@ -547,6 +610,24 @@
 				"tags": ["Books","Finished Reading"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/01/25/finished-reading-gales-of-november.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781324094654/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781324094654\">Gales of November: The Untold Story of the Edmund Fitzgerald</a> by John U. Bacon. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781324094654/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9781324094654\">Gales of November: The Untold Story of the Edmund Fitzgerald</a> by John U. Bacon. 📚</p>\n",
+				"date_published": "2026-01-25T01:00:00-05:00",
+				"url": "https://eberle.blog/2026/01/25/finished-reading-gales-of-november.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2026/01/24/010000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593803080/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593803080\">Blood in Winter: England on the Brink of Civil War 1642</a> by Jonathan Healey. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593803080/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593803080\">Blood in Winter: England on the Brink of Civil War 1642</a> by Jonathan Healey. 📚</p>\n",
+				"date_published": "2026-01-24T01:00:00-05:00",
+				"url": "https://eberle.blog/2026/01/24/010000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/01/24/finished-reading-blood-in-winter.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593803080/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593803080\">Blood in Winter: England on the Brink of Civil War 1642</a> by Jonathan Healey. 📚</p>\n",
@@ -655,6 +736,15 @@
 				"tags": ["Status"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/01/03/3fcbe2.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250007650/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250007650\">Train Dreams: A Novella</a> by Denis Johnson. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250007650/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250007650\">Train Dreams: A Novella</a> by Denis Johnson. 📚</p>\n",
+				"date_published": "2026-01-03T01:00:00-05:00",
+				"url": "https://eberle.blog/2026/01/03/3fcbe2.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2026/01/01/010000.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780300272413/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780300272413\">Chitto Harjo: Native Patriotism and the Medicine Way</a> by Donald L. Fixico. 📚 Assigned for Oklahoma History, Spring 2026</p>\n",
@@ -664,12 +754,30 @@
 				"tags": ["Books","Finished Reading"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2026/01/01/finished-reading-chitto-harjo-native.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780300272413/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780300272413\">Chitto Harjo: Native Patriotism and the Medicine Way</a> by Donald L. Fixico. 📚 Assigned for Oklahoma History, Spring 2026</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780300272413/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780300272413\">Chitto Harjo: Native Patriotism and the Medicine Way</a> by Donald L. Fixico. 📚 Assigned for Oklahoma History, Spring 2026</p>\n",
+				"date_published": "2026-01-01T01:00:00-05:00",
+				"url": "https://eberle.blog/2026/01/01/finished-reading-chitto-harjo-native.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/12/31/finished-reading-fen-bog-and.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982173357/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982173357\">Fen, Bog and Swamp</a> by Annie Proulx 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982173357/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Fen, Bog and Swamp](https://micro.blog/books/9781982173357) by Annie Proulx 📚\n",
 				"date_published": "2025-12-31T00:54:00-05:00",
 				"url": "https://eberle.blog/2025/12/31/finished-reading-fen-bog-and.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/12/30/finished-reading-fen-bog-and.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982173357/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982173357\">Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis</a> by Annie Proulx. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982173357/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982173357\">Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis</a> by Annie Proulx. 📚</p>\n",
+				"date_published": "2025-12-30T01:00:00-05:00",
+				"url": "https://eberle.blog/2025/12/30/finished-reading-fen-bog-and.html",
 				"tags": ["Books","Finished Reading"]
 			},
 			{
@@ -843,6 +951,15 @@
 				"url": "https://eberle.blog/2025/10/09/nic-hoffmann-we-need-cultural.html"
 			},
 			{
+				"id": "http://jleberle.micro.blog/2025/10/04/000000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593854280/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593854280\">A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck</a> by Sophie Elmhirst. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593854280/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593854280\">A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck</a> by Sophie Elmhirst. 📚</p>\n",
+				"date_published": "2025-10-04T00:00:00-05:00",
+				"url": "https://eberle.blog/2025/10/04/000000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/10/04/finished-reading-a-marriage-at.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593854280/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593854280\">A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck</a> by Sophie Elmhirst. 📚</p>\n",
@@ -879,12 +996,30 @@
 				"tags": ["Books","Finished Reading"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2025/06/20/000000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781324092094/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781324092094\">Washita Love Child: The Rise of Indigenous Rock Star Jesse Ed Davis</a> by Douglas Kent Miller. 📚 Read for a Stillwater Library book discussion</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781324092094/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9781324092094\">Washita Love Child: The Rise of Indigenous Rock Star Jesse Ed Davis</a> by Douglas Kent Miller. 📚 Read for a Stillwater Library book discussion</p>\n",
+				"date_published": "2025-06-20T00:00:00-05:00",
+				"url": "https://eberle.blog/2025/06/20/000000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/06/09/finished-reading-cod-by-mark.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780307369802/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780307369802\">Cod</a> by Mark Kurlansky 📚</p>\n<p>Just a little book about fish.</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780307369802/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Cod](https://micro.blog/books/9780307369802) by Mark Kurlansky 📚\n\nJust a little book about fish. \n",
 				"date_published": "2025-06-09T13:07:31-05:00",
 				"url": "https://eberle.blog/2025/06/09/finished-reading-cod-by-mark.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/06/09/finished-reading-cod-a-biography.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780099268703/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780099268703\">Cod: A Biography of the Fish that Changed the World</a> by Mark Kurlansky. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780099268703/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780099268703\">Cod: A Biography of the Fish that Changed the World</a> by Mark Kurlansky. 📚</p>\n",
+				"date_published": "2025-06-09T00:00:00-05:00",
+				"url": "https://eberle.blog/2025/06/09/finished-reading-cod-a-biography.html",
 				"tags": ["Books","Finished Reading"]
 			},
 			{
@@ -895,6 +1030,15 @@
 				"date_published": "2025-06-04T08:44:22-05:00",
 				"url": "https://eberle.blog/2025/06/04/currently-reading-cod-by-mark.html",
 				"tags": ["Books"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2025/06/03/000000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781451627299/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781451627299\">11/22/63</a> by Stephen King. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781451627299/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9781451627299\">11/22/63</a> by Stephen King. 📚</p>\n",
+				"date_published": "2025-06-03T00:00:00-05:00",
+				"url": "https://eberle.blog/2025/06/03/000000.html",
+				"tags": ["Books","Finished Reading"]
 			},
 			{
 				"id": "http://jleberle.micro.blog/2025/06/03/finished-reading-by-stephen-king.html",
@@ -986,6 +1130,15 @@
 				"tags": ["Highlights"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2025/03/24/000000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780063112049/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063112049\">By the Fire We Carry: The Generations-Long Fight for Justice on Native Land</a> by Rebecca Nagle. 📚 Assigned for Oklahoma History, Spring 2025</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780063112049/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063112049\">By the Fire We Carry: The Generations-Long Fight for Justice on Native Land</a> by Rebecca Nagle. 📚 Assigned for Oklahoma History, Spring 2025</p>\n",
+				"date_published": "2025-03-24T00:00:00-05:00",
+				"url": "https://eberle.blog/2025/03/24/000000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/03/24/finished-reading-by-the-fire.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780063112049/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063112049\">By the Fire We Carry: The Generations-Long Fight for Justice on Native Land</a> by Rebecca Nagle. 📚 Assigned for Oklahoma History, Spring 2025</p>\n",
@@ -1040,6 +1193,15 @@
 				"tags": ["Highlights"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2025/01/05/010000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780525509004/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525509004\">Cue the Sun!: The Invention of Reality TV</a> by Emily Nussbaum. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525509004/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525509004\">Cue the Sun!: The Invention of Reality TV</a> by Emily Nussbaum. 📚</p>\n",
+				"date_published": "2025-01-05T01:00:00-05:00",
+				"url": "https://eberle.blog/2025/01/05/010000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2025/01/05/finished-reading-cue-the-sun.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780525509004/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525509004\">Cue the Sun!: The Invention of Reality TV</a> by Emily Nussbaum. 📚</p>\n",
@@ -1049,12 +1211,30 @@
 				"tags": ["Books","Finished Reading"]
 			},
 			{
+				"id": "http://jleberle.micro.blog/2024/12/19/010000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780385550376/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385550376\">James: A Novel</a> by Percival L. Everett. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780385550376/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385550376\">James: A Novel</a> by Percival L. Everett. 📚</p>\n",
+				"date_published": "2024-12-19T01:00:00-05:00",
+				"url": "https://eberle.blog/2024/12/19/010000.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
 				"id": "http://jleberle.micro.blog/2024/12/19/finished-reading-james-a-novel.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780385550376/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385550376\">James: A Novel</a> by Percival L. Everett. 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780385550376/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780385550376\">James: A Novel</a> by Percival L. Everett. 📚</p>\n",
 				"date_published": "2024-12-19T01:00:00-05:00",
 				"url": "https://eberle.blog/2024/12/19/finished-reading-james-a-novel.html",
+				"tags": ["Books","Finished Reading"]
+			},
+			{
+				"id": "http://jleberle.micro.blog/2024/12/01/010000.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593230398/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593230398\">The Message</a> by Ta-Nehisi Coates. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593230398/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593230398\">The Message</a> by Ta-Nehisi Coates. 📚</p>\n",
+				"date_published": "2024-12-01T01:00:00-05:00",
+				"url": "https://eberle.blog/2024/12/01/010000.html",
 				"tags": ["Books","Finished Reading"]
 			},
 			{
